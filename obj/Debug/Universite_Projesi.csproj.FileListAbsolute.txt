@@ -1,0 +1,16 @@
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\bin\Debug\Universite_Projesi.exe.config
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\bin\Debug\Universite_Projesi.exe
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\bin\Debug\Universite_Projesi.pdb
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.Form1.resources
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.exe
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.pdb
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.Frm_Ogrenci_Not.resources
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.Frm_Ogretmen.resources
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.Frm_Kulup.resources
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.Frm_Dersler.resources
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.Frm_Ogrenci.resources
+C:\Users\USER01\Desktop\C#\Universite_Projesi\Universite_Projesi\obj\Debug\Universite_Projesi.FrmSinavNotlar.resources
